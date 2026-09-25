@@ -1,0 +1,10 @@
+{
+  "description": "Connects students, parents, tutors, and admins in Kumasi for seamless online tutoring with booking, messaging, progress tracking, and payments.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
